@@ -1,2 +1,1 @@
-# dio-campTakeBlip
-Atividades referentes ao camp da Take Blip Web Developer desenvolvido pela DIO. 
+# <center>Repositório com atividades do boot camp da Take Blip Web Developer desenvolvido pela DIO.</center>
