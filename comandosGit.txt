@@ -1,0 +1,12 @@
+Comando para conectar o git com o github, após criar um repositório no github.
+
+git remote add origin (link do repositório)
+git remote -v (visualizar se deu certo)
+
+Comando para alterar o nome da branch no git(local)
+
+git branch -m master main 
+git fetch origin 
+git branch -u origin/main main
+git remote set-head origin -a 
+
