@@ -1,4 +1,4 @@
-# Repositório com atividades do boot camp da Take Blip Web Developer desenvolvido pela DIO.
+# Repositório com atividades do boot camp desenvolvido pela DIO.
 
 ## Links úteis 
 
