@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,500;1,900&display=swap');
+
+
+body{
+    background-color: rgb(224, 224, 224);
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    max-width: 900px;
+}
+
+.post{
+    background-color: white;
+    padding: 15px;
+    border: 3px solid rgb(56, 56, 56);
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-align: justify;
+}
+
+#titulo, .subTitulo, .tituloPost {
+
+    color: rgb(36, 36, 36);
+}
+
+#titulo {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: rgb(36, 36, 36);
+}
+
+a {
+    text-decoration: line-through;
+}
+
+.tituloPost{
+    font-size: 16;
+    font-style: italic;
+    margin-bottom: 15px;
+    margin: 0px;
+}
+
+.paragrafoPost{
+    margin-bottom: 15px;
+    margin: 0;
+    text-transform:lowercase;
+}
+
+.imagemPost {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.foto {
+    border: 1px solid rgb(56, 56, 56);
+    border-radius: 50%;
+}
+
+.lista{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.lista li a{
+    text-decoration: none;
+}
